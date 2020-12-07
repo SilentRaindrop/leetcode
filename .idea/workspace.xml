@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f51a958-773b-4e92-979b-7463d1abb756" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/AlgorismBase/doubleStackToComputer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/META-INF/leetcode.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/leetcode02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/string/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/string/leetcode20.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/leetcode02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/leetcode20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,18 +116,30 @@
       <workItem from="1607089324559" duration="1740000" />
       <workItem from="1607133493569" duration="22000" />
       <workItem from="1607157559728" duration="6776000" />
-      <workItem from="1607327012665" duration="264000" />
+      <workItem from="1607327012665" duration="522000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1607327433192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607327433193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1607327412528">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1607327431661">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607327412528" />
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607327431661" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1607327076564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
