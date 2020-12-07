@@ -13,7 +13,7 @@ class ListNode {
      ListNode(int val) { this.val = val; }
      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  }
-class Solution {
+class leetcode02 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode pre=new ListNode(0);
         ListNode cur=pre;
