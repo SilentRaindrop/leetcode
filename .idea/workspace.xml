@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f51a958-773b-4e92-979b-7463d1abb756" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/list/leetcode142.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list/leetcode02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/leetcode02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../attendance-master" />
   </component>
   <component name="RunManager" selected="Application.leetcode20">
     <configuration name="doubleStackToComputer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -118,7 +118,9 @@
       <workItem from="1607133493569" duration="22000" />
       <workItem from="1607157559728" duration="6776000" />
       <workItem from="1607327012665" duration="1461000" />
-      <workItem from="1607352013945" duration="1783000" />
+      <workItem from="1607352013945" duration="2634000" />
+      <workItem from="1607422939990" duration="624000" />
+      <workItem from="1607438599796" duration="1271000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607327433192</created>
@@ -141,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607352359599</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <created>1607354867479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607354867479</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,14 +161,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1607352358167">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1607354866415">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607352358167" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1607327076564">
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607354866415" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1607423595167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607327076564" />
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607423595167" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1607177136397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -176,13 +185,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607177136397" />
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1607352365077">
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1607354870279">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607352365077" />
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1607133493386">
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607354870279" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1607422940810">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607133493386" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607422940810" />
   </component>
 </project>
