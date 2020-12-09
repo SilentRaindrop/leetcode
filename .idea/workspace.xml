@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f51a958-773b-4e92-979b-7463d1abb756" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/list/leetcode142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/leetcode1143.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/AlgorismBase/doubleStackToComputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/list/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/list/leetcode02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/list/leetcode02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +47,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../attendance-master" />
   </component>
-  <component name="RunManager" selected="Application.leetcode20">
+  <component name="RunManager" selected="Application.leetcode1143">
     <configuration name="doubleStackToComputer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlgorismBase.doubleStackToComputer" />
       <module name="leetcode" />
@@ -71,6 +74,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="leetcode1143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.leetcode1143" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="leetcode20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.leetcode20" />
       <module name="leetcode" />
@@ -86,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode1143" />
         <item itemvalue="Application.doubleStackToComputer" />
         <item itemvalue="Application.leetcode02" />
         <item itemvalue="Application.leetcode20" />
@@ -120,7 +137,9 @@
       <workItem from="1607327012665" duration="1461000" />
       <workItem from="1607352013945" duration="2634000" />
       <workItem from="1607422939990" duration="624000" />
-      <workItem from="1607438599796" duration="1271000" />
+      <workItem from="1607438599796" duration="1301000" />
+      <workItem from="1607478625018" duration="440000" />
+      <workItem from="1607508608953" duration="245000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607327433192</created>
@@ -150,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607354867479</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1607442344707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607442344707</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,10 +187,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1607354866415">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1607442343549">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607354866415" />
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607442343549" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1607423595167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -185,13 +211,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607177136397" />
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1607354870279">
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1607442347681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607354870279" />
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1607422940810">
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607442347681" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1607479054535">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607422940810" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607479054535" />
   </component>
 </project>
