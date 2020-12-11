@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f51a958-773b-4e92-979b-7463d1abb756" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/list/leetcode234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/leetcode328.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +140,7 @@
       <workItem from="1607478625018" duration="440000" />
       <workItem from="1607508608953" duration="5233000" />
       <workItem from="1607586081792" duration="929000" />
-      <workItem from="1607596677909" duration="1873000" />
+      <workItem from="1607596677909" duration="4456000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607327433192</created>
@@ -231,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607598016634</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="test">
+      <created>1607599723248</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607599723248</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,10 +251,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1607598024010">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1607599722060">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607598024010" />
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607599722060" />
     <state x="129" y="61" key="DiffContextDialog" timestamp="1607597985655">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -270,17 +279,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607523158557" />
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1607508865150">
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2" timestamp="1607599725548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607508865150" />
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1607586118887">
+    <state x="275" y="86" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607599725548" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1607679852821">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607586118887" />
-    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607599673896">
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607679852821" />
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607604051451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607599673896" />
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607604051451" />
   </component>
 </project>
