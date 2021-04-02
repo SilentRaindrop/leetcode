@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f51a958-773b-4e92-979b-7463d1abb756" name="Default Changelist" comment="test1">
-      <change afterPath="$PROJECT_DIR$/src/华为机试题/HJ10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/华为机试题/HJ11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/华为机试题/HJ12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/华为机试题/HJ13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/华为机试题/HJ14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/华为机试题/HJ9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/华为机试题/HJ15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,20 +64,7 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.HJ14">
-    <configuration name="HJ10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="华为机试题.HJ10" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="华为机试题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HJ15">
     <configuration name="HJ11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="华为机试题.HJ11" />
       <module name="leetcode" />
@@ -135,6 +117,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HJ15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="华为机试题.HJ15" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="华为机试题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -148,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HJ15" />
         <item itemvalue="Application.HJ14" />
         <item itemvalue="Application.HJ13" />
         <item itemvalue="Application.HJ12" />
         <item itemvalue="Application.HJ11" />
-        <item itemvalue="Application.HJ10" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +199,7 @@
       <workItem from="1616998719109" duration="14170000" />
       <workItem from="1617070666155" duration="7911000" />
       <workItem from="1617171723561" duration="1626000" />
-      <workItem from="1617375833925" duration="2459000" />
+      <workItem from="1617375833925" duration="3097000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607327433192</created>
@@ -367,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617073203840</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="test1">
+      <created>1617378557684</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1617378557684</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
